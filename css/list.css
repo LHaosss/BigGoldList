@@ -1,0 +1,45 @@
+.background {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.kjlc {
+    top: calc(45vw);
+    width: 30%;
+    position: absolute;
+    left: 35%;
+    z-index: 1;
+}
+
+.kjlc:hover {
+    width: 32%;
+    left: 34%;
+}
+
+.kjgs {
+    top: calc(100vw);
+    width: 30%;
+    position: absolute;
+    left: 35%;
+    z-index: 1;
+}
+
+.kjgs:hover {
+    width: 32%;
+    left: 34%;
+}
+
+.gdzb {
+    top: calc(155vw);
+    width: 30%;
+    position: absolute;
+    left: 35%;
+    z-index: 1;
+}
+
+.gdzb:hover {
+    width: 32%;
+    left: 34%;
+}

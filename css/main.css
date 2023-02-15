@@ -1,0 +1,19 @@
+.background {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.more {
+    width: 20%;
+    position: absolute;
+    top: calc(184vw);
+    left: 40%;
+    z-index: 1;
+}
+
+.more:hover {
+    width: 22%;
+    left: 39%;
+}
